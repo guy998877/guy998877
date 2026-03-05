@@ -7,13 +7,13 @@ In my medical ML research, I build clinician-guided models that can be trusted a
 
 ---
 
-## 🔬 What I’m working on
+## What I’m working on
 - **Clinician-guided decision support (M.Sc. thesis):** predicting functional decline and identifying rehab candidates within **48 hours of admission**, using **~45K patients** and multi-source EHR signals (labs/vitals/imaging + history).
 - Strong focus on evaluation that reflects real usage (e.g., false-negative analysis, ranking + alert workflows).
 
 ---
 
-## 🧩 Selected projects
+## Selected projects
 - **LLM Hallucination & Explainability** — benchmarked prompting vs. LoRA and built an automated test pipeline across multiple model configs.
 - **Acoustic Side-Channel (Audio + CV)** — classified multiple room environments with deep learning; generated synthetic data at scale for robust training.
 - **Tabular cGAN (Synthetic Data)** — implemented a “Forgiving Teacher” style ensemble to stabilize training and preserve correlations for downstream tasks.
@@ -21,7 +21,7 @@ In my medical ML research, I build clinician-guided models that can be trusted a
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 - **Languages:** Python, SQL, Java, C#
 - **ML/DL:** PyTorch, scikit-learn, XGBoost
 - **GenAI/LLMs:** RAG, LoRA, embeddings, Hugging Face, OpenAI API
@@ -30,7 +30,7 @@ In my medical ML research, I build clinician-guided models that can be trusted a
 
 ---
 
-## 📌 Links
+## Links
 - **LinkedIn:** https://www.linkedin.com/in/guyzagorski
 - **Email:** guyzagor@gmail.com
 
