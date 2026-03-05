@@ -2,8 +2,8 @@
 
 **Data Scientist | M.Sc. Student (Information Systems Engineering) @ Ben-Gurion University**
 
-I’m motivated by turning data into decisions — especially in real-world settings where reliability matters.  
-In my medical ML research, I build clinician-guided models that can be trusted and used in practice, and I enjoy the full cycle: problem understanding → modeling → validation → deployment-ready pipelines.
+I’m motivated by turning data into decisions
+In my medical ML research, I build clinician-guided models that can be trusted and used in practice
 
 ---
 
