@@ -31,10 +31,9 @@ In my medical ML research, I build clinician-guided models that can be trusted a
 ---
 
 ## 📌 Links
-- **GitHub:** https://github.com/guy998877
 - **LinkedIn:** https://www.linkedin.com/in/guyzagorski
-
----
-
-## 📫 Get in touch
 - **Email:** guyzagor@gmail.com
+- **GitHub:** https://github.com/guy998877
+
+
+
